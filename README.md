@@ -20,7 +20,7 @@ To analyze sales data and identify patterns across:
 - DAX
 
 ## Dashboard
-
+![Apple Sales Power BI Dashboard](Screenshot%20%2862%29.png)
 The dashboard provides interactive visual analysis of Apple sales data through multiple charts, KPIs and filters.
 
 ## Key Analysis
